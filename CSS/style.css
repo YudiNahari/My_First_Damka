@@ -1,0 +1,94 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+body {
+  background-color: black;
+}
+#name {
+  background-color:#DAC2B2;
+  text-align: center;
+  letter-spacing: 10px;
+  word-spacing: 20px;
+  
+}
+.row_forA {
+  text-align: center;
+  word-spacing:120px;
+  color: white;
+}
+
+#main {
+  background-color: #5A4232;
+  width: 1041px;
+  height: 705px;
+  margin:  auto;
+}
+
+.box {
+  background-color: white;
+  width: 120px;
+  height: 70px;
+  margin: 5px;
+  float: left;
+}
+.notEmpty {
+  background-color: white;
+  width: 120px;
+  height: 70px;
+  margin: 5px;
+  float: left;
+}
+.black {
+  width: 50px;
+  height: 53px;
+  margin: auto;
+  margin-top: 4px;
+  border-radius: 50%;
+  background-color: black;
+}
+
+.white {
+  background-color: #F4A460;
+  width: 53px;
+  height: 53px;
+  margin: auto;
+  margin-top: 4px;
+  border-radius: 50%;
+  
+}
+#blockBox {
+  background-color: rgb(17, 3, 3);
+  width: 120px;
+  height: 70px;
+  margin: 5px;
+  float: left;
+}
+.hold {
+  border: 3px solid red;
+  border-radius: 50%;
+}
+.hovered {
+  background: rgb(228, 5, 5);
+  border: 1px black solid;
+}
+.invisible {
+  display: none;
+}
+
+#color {
+  background-color: red;
+}
+
+#kingW{
+ background-color: #F4A460;
+  width: 53px;
+  height: 53px;
+  box-shadow: inset 10px 0px 10px -10px black ,inset -10px 0px 10px -10px black;
+}
+#kingB{
+  background-color: rgb(100, 21, 21);
+   width: 53px;
+   height: 53px;
+   box-shadow: inset 10px 0px 10px -10px black ,inset -10px 0px 10px -10px black;
+ }
